@@ -8,3 +8,4 @@ Este blog es mi primer acercamiento a GitHub
 
 * Creado por mi xd
 * Incluye ehemplos en todos los OS
+* Disponible para todas las edades
