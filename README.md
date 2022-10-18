@@ -7,3 +7,4 @@ Este blog es mi primer acercamiento a GitHub
 - [] Ser mala persona
 
 * Creado por mi xd
+* Incluye ehemplos en todos los OS
